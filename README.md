@@ -1,17 +1,17 @@
 # Emojione
 
-Version 2.x of Emojione is no longer supported by [Ranks.com](https://emojione.com). 
+Version 2.x of Emojione is no longer supported by [Ranks.com](https://emojione.com).
 Versions 3 and 4 have slightly different desigsn and new, more restrictive licensing terms.
 Some people prefer the flat cartoon design and the FOSS license with actual access to the SVG sources.
 
-# Emojitwo 
+# Emojitwo
 
 The artwork of the second generation of the web's first complete open source emoji set. It is and will stay 100% free and open source.
 
-**We need help** from graphic designers to make more glyphs! 
-See the [milestones](https://github.com/EmojiTwo/emojitwo/milestones), [projects](https://github.com/EmojiTwo/emojitwo/projects) and especially the issues tagged [`character artwork`](https://github.com/EmojiTwo/emojitwo/labels/character%20artwork) for details. 
-Do not be afraid to ask for assistance, also boldly send pull requests. 
-Every year Uniucode aims to release a couple dozen new emojis. 
+**We need help** from graphic designers to make more glyphs!
+See the [milestones](https://github.com/EmojiTwo/emojitwo/milestones), [projects](https://github.com/EmojiTwo/emojitwo/projects) and especially the issues tagged [`character artwork`](https://github.com/EmojiTwo/emojitwo/labels/character%20artwork) for details.
+Do not be afraid to ask for assistance, also boldly send pull requests.
+Every year Uniucode aims to release a couple dozen new emojis.
 Some of them come with gender and skin tone variants, but at least the latter can be generated automatically.
 
 ## Differences between Emojitwo and Emojione 2.x
@@ -57,14 +57,14 @@ Emojitwo shall adopt a more restricted color palette. Actual changes will be sub
     *  [License](LICENSE.md): Creative Commons Attribution 4.0 International
     *  Human Readable License: http://creativecommons.org/licenses/by/4.0/
     *  Complete Legal Terms: http://creativecommons.org/licenses/by/4.0/legalcode
-  
+
 ### Emojione Artwork Attribution
 
-With the release of version 3.0, the Emojione project also made changes to 2.2.7’s licensing. 
+With the release of version 3.0, the Emojione project also made changes to 2.2.7’s licensing.
 [Previously](https://web-beta.archive.org/web/20170327003706/http://emojione.com/licensing/#attribution), Emojione did not require attribution for non-commercial and personal use. Considering that the Emojione project only changed the documentation in that branch to mandate attribution in any case, Emojitwo forked a state before those changes for greater flexibility.
 
-For **non-commercial** and **personal use**, you *should* credit the creators. 
-For **commercial use**, proper attribution *must* be given on every web page, app, or video description where our emojis are displayed. 
+For **non-commercial** and **personal use**, you *should* credit the creators.
+For **commercial use**, proper attribution *must* be given on every web page, app, or video description where our emojis are displayed.
 
 ### Creative Commons Requirements
 
@@ -98,7 +98,7 @@ Also helpful:
 
 ### Ideal Attribution
 
-> Emoji artwork is provided by [Emojitwo](https://emojitwo.github.io/), 
+> Emoji artwork is provided by [Emojitwo](https://emojitwo.github.io/),
 > originally released as [Emojione 2.2](https://www.emojione.com) by [Ranks.com](http://www.ranks.com)
 > with contributions from the Emojitwo community
 > and is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
@@ -111,13 +111,13 @@ Also helpful:
     - app settings
     - official app website
     - social media
-    
+
 #### Websites
 - A note with link on *every web page* where our emojis are displayed is required.
 - Other links and praise are much appreciated:
     - main homepage
     - social media
-    
+
 #### Web Videos
 - A note with link in the *video description* is required.
 - Other links and praise are much appreciated:
@@ -129,7 +129,7 @@ Also helpful:
 
 ### Generating New Sprites
 
-The sprites are not automatically updated and should be refreshed locally if you plan to use them. To do this, you must have [NPM](https://www.npmjs.com/),  [Grunt](https://gruntjs.com/), and [ImageOptim](https://imageoptim.com/mac) installed on your machine. 
+The sprites are not automatically updated and should be refreshed locally if you plan to use them. To do this, you must have [NPM](https://www.npmjs.com/),  [Grunt](https://gruntjs.com/), and [ImageOptim](https://imageoptim.com/mac) installed on your machine.
 
 From the root of the project, first install Node modules:
 ```$ npm install```
